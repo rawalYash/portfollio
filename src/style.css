@@ -98,6 +98,15 @@ body{
 .about{
     min-height: 100vh;
 }
+.skillSection{
+    min-height: 95vh;
+}
+
+
+.projectSection{
+    min-height: 85vh;
+}
+
 .skill{
     padding-top: 20px;
 }
